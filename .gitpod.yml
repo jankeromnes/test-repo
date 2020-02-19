@@ -1,0 +1,7 @@
+tasks:
+  - init: touch hello2
+    command: |
+      touch hello3
+      touch hello4
+      mkdir /usr/bin2
+      touch hello5
